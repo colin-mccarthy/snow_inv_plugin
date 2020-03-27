@@ -1,0 +1,6 @@
+---
+plugin: servicenow.servicenow.now
+enhanced: true
+selection_order: name
+compose:
+    ansible_host: sn_ip_address
