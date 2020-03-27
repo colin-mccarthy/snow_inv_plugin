@@ -16,7 +16,7 @@ https://snprotips.com/installing-an-update-set-from-xml
 
 
 
-# Dependancies
+# Dependancies:
 
 ```
 $ source /var/lib/awx/venv/ansible/bin/activate
